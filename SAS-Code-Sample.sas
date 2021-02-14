@@ -1,4 +1,4 @@
-/* Basic Arithmetic Operation */
+/* Arithmetic Operators */
 + Addition
 - Subtraction
 * Multiplication
@@ -12,3 +12,8 @@ Greater than                   > GT
 Greater than or equal to       >= GE
 Less than                      > GT
 Greater than or equal to       >= GE
+
+/* Logical Operators */
+AND &
+OR |
+NOT ^
